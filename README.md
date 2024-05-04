@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-Watch tutorial on YouTube.
+Watch tutorial on YouTube. And then figure out the holes in their tutorial.
